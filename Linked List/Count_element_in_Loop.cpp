@@ -95,5 +95,5 @@ int countNodesinLoop(struct Node *head)
         if (temp1 == temp2)
             return count(temp1);
     }
-    return 0;
+    return 0;   //return 0 if no loop is present in list.
 }
