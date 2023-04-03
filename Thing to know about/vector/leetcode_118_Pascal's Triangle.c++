@@ -15,3 +15,4 @@ public:
     }
 };
 
+// https://leetcode.com/problems/pascals-triangle/solutions/3373013/c-very-easy-approach-easy-to-understand/
